@@ -6,6 +6,7 @@
 - Criação de um novo app
 - Migrando tabelas padrões do Django para o banco
 - Acessando o Django Admin
+_____________________________________________________________________________
 -----------------------------------------------------------------------------
 ##### Aula 3
 
