@@ -9,14 +9,14 @@
 - Acessando o Django Admin
 
 ##### Aula 3
-- Criando classes no Models
-- Migrando a classe criada para o banco de dados
-- Alterando uma classe de dados e replicando para o banco de dados
-- Registrando a classe no Django Admin
+- Criação de classes no Models
+- Migração da classe criada para o banco de dados
+- Alteração de uma classe de dados e replicando para o banco de dados
+- Registro de uma classe no Django Admin
 
 ##### Aula 4
-- Configurando templates
-- Criando uma página html
+- Configuração templates
+- Criação de uma página html
 - Listando todos os eventos
 
 ##### Aula 5
@@ -25,6 +25,11 @@
 - Decoradores
 - Implementação login
 - Implementação logout
+
+##### Aula 6
+- Criação de página de inserção
+- Criação de um form para submit da inserção
+- Função create
 ---------------------------------------------------------------------
 Projeto dividido em dois repósitorios, necessário utilizar os dois repositórios:
 
